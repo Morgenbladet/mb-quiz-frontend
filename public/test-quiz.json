@@ -1,0 +1,17 @@
+{
+  "name": "Testequiz",
+  "items": [
+      {
+        "number": 1,
+        "question": "Hva heter hovedstaden i Nord-Korea og i hvilken by arrangeres vinter-OL?",
+        "type": "text",
+        "correct": "Pyongyang og Pyeonchang"
+      },
+      {
+        "number": 2,
+        "question": "Ved hvilket universitet var John Harvard (1607-1638), som  Harvard University er oppkalt etter, utdannet?",
+        "type": "text",
+        "correct": "University of Cambridge"
+      }
+  ]
+}
